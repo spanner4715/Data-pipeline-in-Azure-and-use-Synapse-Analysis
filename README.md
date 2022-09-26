@@ -1,0 +1,1 @@
+# Data-pipeline-in-Azure-and-use-Synapse-Analysis
