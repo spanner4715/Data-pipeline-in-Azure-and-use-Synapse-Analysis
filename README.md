@@ -2,7 +2,7 @@
 Build a data pipeline in Azure using Azure Synapse Analytics, Azure Storage and Azure Synapse SQL pool  
 Perform data analysis on the 2021 Olympics dataset & visualize data in charts in Power BI 
 ### 1. Azure Storage
-Create database and upload 2021 Olympics various data objects
+Create a new database and upload 2021 Olympics various data objects
 ### 2. Azure Synapse SQL Pool
 A dedicated SQL pool can represent a collection of analytics resources provided when using Synapse SQL  
 By creating a dedicated SQL pool, it's available to use PolyBase-T-SQL queries to import big data  and leverage the distributed query engine to perform analytics
