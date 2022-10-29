@@ -13,9 +13,10 @@ Approach:
 ![image](https://user-images.githubusercontent.com/103509243/198841506-0347e1dd-bf44-4f03-82d6-79beaa4fe90b.png)
 
 2. Create table structure in SQL pool (Telling the system what does data look like)
+![image](https://user-images.githubusercontent.com/103509243/198843531-26c50717-3a57-42fe-942d-ae3dae8ce6af.png)
 
+3. Create a data pipeline to ingest data from azure storage into SQL pool tables
 
-5. Create a data pipeline to ingest data from azure storage into SQL pool tables.
 
 6. Load data from SQL pool tables into Power BI.
 
